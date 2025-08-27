@@ -1,2 +1,6 @@
-# ml-tutorials
-Machine learning tutorials and articles.
+# ML Tutorials
+
+Welcome to the Machine Learning Tutorials repository!
+
+## Articles
+- [Naive Bayes Classifier](articles/naive-bayes.md)
