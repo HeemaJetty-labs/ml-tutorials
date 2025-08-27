@@ -1,4 +1,4 @@
-##Naive Bayes Algorithm explained with few commonly used examples. I have mentioned the formula below. For beginners, try to understand the use case and then relate the formula derivation and logic.
+## Naive Bayes Algorithm explained with few commonly used examples. I have mentioned the formula below. For beginners, try to understand the use case and then relate the formula derivation and logic.
 
 ## What is Naive Bayes?
 
