@@ -54,3 +54,6 @@ Naive Bayes calculates:
 
 **Summary:**  
 Naive Bayes is a simple yet powerful probabilistic model that can help classify data by assuming features are independent and by leveraging the basic rules of probability.
+
+## Code Examples
+supervised-learning/classification/naivebayes/naivebayes-basic.py
