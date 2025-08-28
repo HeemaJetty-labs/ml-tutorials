@@ -3,4 +3,6 @@
 Welcome to the Machine Learning Tutorials repository!
 
 ## Articles
+- [Essential Machine Learning Terms](articles/EssentialMachineLearningTerms.md)
 - [Naive Bayes Classifier](articles/naive-bayes.md)
+- [Linear Regression](articles/linear-regression.md)
