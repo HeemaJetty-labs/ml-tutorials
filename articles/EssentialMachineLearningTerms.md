@@ -41,7 +41,7 @@
 - **Confusion Matrix**  
   A table layout showing true positives, false positives, true negatives, and false negatives used for classification evaluation.
 
-==========================================================================================================================
+=======================================================================
 
 ## Data Concepts
 
@@ -66,7 +66,7 @@
 - **Underfitting**  
   When a model is too simple and can't capture the underlying pattern of data.
 
-==========================================================================================================================
+=======================================================================
 
 ## Algorithm Concepts
 
@@ -91,7 +91,7 @@
 - **Feature Engineering**  
   Creating new input features from raw data to improve model performance.
 
-==========================================================================================================================
+=======================================================================
 
 ## Model & Training Terms
 
@@ -116,7 +116,7 @@
 - **Regularization**  
   Techniques (like L1, L2) to prevent overfitting by adding a penalty on larger weights.
 
-==========================================================================================================================
+=======================================================================
 
 ## Miscellaneous Terms
 
