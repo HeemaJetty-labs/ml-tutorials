@@ -7,4 +7,5 @@ Welcome to the Machine Learning Tutorials repository!
 - [Naive Bayes Classifier](articles/naive-bayes.md)
 - [Linear Regression](articles/linear-regression.md)
 - [Logistic Regression](articles/logistic-regression.md)
-- [Decision Tree Classifier](articles/decision-tree.md)
+- [Decision Tree Classifier](articles/decision-tree.md)  
+- [Random Forest Classifier](articles/random-forest.md)
