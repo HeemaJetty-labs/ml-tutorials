@@ -9,5 +9,5 @@ Welcome to the Machine Learning Tutorials repository!
 - [Logistic Regression](articles/logistic-regression.md)
 - [Decision Tree Classifier](articles/decision-tree.md)  
 - [Random Forest Classifier](articles/random-forest.md)
-- [Decision Tree Regression](articles/decision-tree-regression.md)  random-forest-regression.md
+- [Decision Tree Regression](articles/decision-tree-regression.md) 
 - [Random Forest Regression](articles/random-forest-regression.md)
