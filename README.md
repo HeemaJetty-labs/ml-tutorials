@@ -12,3 +12,4 @@ Welcome to the Machine Learning Tutorials repository!
 - [Decision Tree Regression](articles/decision-tree-regression.md) 
 - [Random Forest Regression](articles/random-forest-regression.md)  
 - [Support Vector Machine Classification](articles/support-vector-machine-classification.md)
+- [Support Vector Regression](articles/support-vector-regression.md)
